@@ -1,0 +1,24 @@
+OSXUniversal
+PlayerPath?
+C:/Users/Roman Garms/Documents/Unity/VideoLab PC/Tombola10/xypak/OSX/xypak
+SceneListBegin?
+Assets/Scenes/XYPak.unity
+SceneListEnd?
+9773629fca238d83924c412477253c02 Assembly-CSharp.dll:Klak.Wiring.DragEventInput
+60f41b2bbccfb352ea723e4a52f8dc10 Assembly-CSharp.dll:Klak.Wiring.TapEventInput
+507174d46dacbc5fe45e28485db5dd1e UnityEngine.UI.dll:UnityEngine.UI.Button
+4bc4346a71a8df53a6b106f68ef3a190 UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
+cc4274b586df3c02688bac01b88bd16c UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+ae83e830e7a90c0aff918c4c2e520825 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
+e6baf3ef68d60bd0901dfb91c02bc1c3 UnityEngine.UI.dll:UnityEngine.UI.Image
+71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.UI.dll:UnityEngine.UI.RectMask2D
+748dd2a2a28da4e618912da5ac45684b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
+4d87105573621483d5d3fb61c7daf159 Assembly-CSharp.dll:Klak.Midi.KnobOut
+06d75f5073a437ec51e95fdab91b9f77 Assembly-CSharp.dll:Klak.Wiring.VectorOut
+526a5dd2a85ac1bfe1a9aee64ec246e5 Assembly-CSharp.dll:Klak.Wiring.FloatValue
+b0827a319e61821e0ba71b67b5e32b81 Assembly-CSharp.dll:Klak.Wiring.FromToVector
+668e8c823fe8eb34bcd3d4d94b055eb6 Assembly-CSharp.dll:Klak.Wiring.Patch
+a8779619d4e50358400bd2865f3897a3 Assembly-CSharp.dll:Klak.Wiring.ActiveStatusOut
+c0ffada44917e19b06d8a5e56b1c427d Assembly-CSharp.dll:Klak.Wiring.FloatMix
+180d84d2698accfa60ad528aeeb8b2bb Assembly-CSharp.dll:Klak.Wiring.ComponentVector
+0b8613c1e12681b0ddbff76864faf738 Assembly-CSharp.dll:Klak.Wiring.VectorComponents

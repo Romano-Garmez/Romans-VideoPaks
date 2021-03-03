@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2740005602
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tombola
+      Dependencies: {}
