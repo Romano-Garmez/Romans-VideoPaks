@@ -3,3 +3,8 @@
 Currently there are two videopaks available:\
 -a version of the tombola sequencer from the OP-1\
 -a touchscreen xy pad that sends midi out via the OP-Z
+
+![Tombola](https://imgur.com/YKsuOiq)
+
+
+![XYPak](https://imgur.com/UlNBOzO)
