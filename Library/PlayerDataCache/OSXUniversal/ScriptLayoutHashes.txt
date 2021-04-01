@@ -1,11 +1,13 @@
 OSXUniversal
 PlayerPath?
-C:/Users/Roman Garms/Documents/Unity/VideoLab PC/Tombola10/xypak/OSX/xypak
+C:/Users/Roman Garms/Creative Cloud Files/Unity/VideoLab PC/Temp/UnityTempFile-d4d1520c0a88ccb4b9eae5f5c34eda55/tombola/OSX/tombola
 SceneListBegin?
-Assets/Scenes/XYPak.unity
+Assets/Scenes/Tombola.unity
 SceneListEnd?
-9773629fca238d83924c412477253c02 Assembly-CSharp.dll:Klak.Wiring.DragEventInput
+17ea920e8ce21d8f7a506e1f45f9ea7f Assembly-CSharp.dll:Klak.Wiring.BangFilter
 60f41b2bbccfb352ea723e4a52f8dc10 Assembly-CSharp.dll:Klak.Wiring.TapEventInput
+d19bceb63f57f4df6293b924cdba1f62 Assembly-CSharp.dll:Klak.Wiring.StringOut
+ef8e3d27fe3457bdbbed58b3855f1ba3 Assembly-CSharp.dll:Klak.Wiring.ColliderInput
 507174d46dacbc5fe45e28485db5dd1e UnityEngine.UI.dll:UnityEngine.UI.Button
 4bc4346a71a8df53a6b106f68ef3a190 UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
 cc4274b586df3c02688bac01b88bd16c UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
@@ -13,12 +15,24 @@ ae83e830e7a90c0aff918c4c2e520825 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycas
 e6baf3ef68d60bd0901dfb91c02bc1c3 UnityEngine.UI.dll:UnityEngine.UI.Image
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.UI.dll:UnityEngine.UI.RectMask2D
 748dd2a2a28da4e618912da5ac45684b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
-4d87105573621483d5d3fb61c7daf159 Assembly-CSharp.dll:Klak.Midi.KnobOut
+72712369a7c681ad84fc255a5ec0b333 UnityEngine.UI.dll:UnityEngine.UI.Text
+82225b4ecae3d909c62acb9201636f81 Assembly-CSharp.dll:Klak.Wiring.AnimatorOut
 06d75f5073a437ec51e95fdab91b9f77 Assembly-CSharp.dll:Klak.Wiring.VectorOut
 526a5dd2a85ac1bfe1a9aee64ec246e5 Assembly-CSharp.dll:Klak.Wiring.FloatValue
 b0827a319e61821e0ba71b67b5e32b81 Assembly-CSharp.dll:Klak.Wiring.FromToVector
 668e8c823fe8eb34bcd3d4d94b055eb6 Assembly-CSharp.dll:Klak.Wiring.Patch
+f0ff1a3cd76f3a3759bf55ef80e56902 Assembly-CSharp.dll:Klak.Wiring.Starter
 a8779619d4e50358400bd2865f3897a3 Assembly-CSharp.dll:Klak.Wiring.ActiveStatusOut
+44248daa489e9ff93c6e0740fbbaefcd Assembly-CSharp.dll:Klak.Wiring.TransformOut
+c045d6ea0607b8332ba446a4116496ad Assembly-CSharp.dll:Klak.Midi.NoteInput
 c0ffada44917e19b06d8a5e56b1c427d Assembly-CSharp.dll:Klak.Wiring.FloatMix
+e80bbb863642fc10ac32b7a310591f7d Assembly-CSharp.dll:Klak.Wiring.Toggle
+ddc88e574e6e2286955b78157364a5de Assembly-CSharp.dll:Klak.Wiring.Accumulator
+f1ebdc0a2b6164742c42b8daaced5013 Assembly-CSharp.dll:Klak.Wiring.Threshold
+accb736c8ca02925fbad9127d2b5c66b Assembly-CSharp.dll:Klak.Midi.KnobInput
 180d84d2698accfa60ad528aeeb8b2bb Assembly-CSharp.dll:Klak.Wiring.ComponentVector
-0b8613c1e12681b0ddbff76864faf738 Assembly-CSharp.dll:Klak.Wiring.VectorComponents
+1535486f2532f956560ca186613111b0 Assembly-CSharp.dll:Klak.Wiring.AxisRotation
+afe9d66b787b252c1629c11e9382256e Assembly-CSharp.dll:Klak.Wiring.ConsoleOut
+57361a4efe27ca5af11cc20a74a86887 Assembly-CSharp.dll:Klak.Wiring.FloatFilter
+dcff97d48c63f75ab1ed851df482c2b6 Assembly-CSharp.dll:Klak.Midi.NoteOut
+afaa6ffc81c3da639a9c489e2a3f7e1e Assembly-CSharp.dll:Klak.Wiring.Delay
