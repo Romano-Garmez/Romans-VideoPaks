@@ -1,6 +1,6 @@
 iOS
 PlayerPath?
-C:/Users/Roman Garms/Creative Cloud Files/Unity/VideoLab PC/Temp/UnityTempFile-d4d1520c0a88ccb4b9eae5f5c34eda55/tombola/iOS/tombola
+C:/Users/Roman Garms/Creative Cloud Files/Unity/VideoLab PC/Temp/UnityTempFile-0ac47df17aed7ba468d4780df20e0eaf/tombola/iOS/tombola
 SceneListBegin?
 Assets/Scenes/Tombola.unity
 SceneListEnd?
@@ -28,6 +28,7 @@ c045d6ea0607b8332ba446a4116496ad Assembly-CSharp.dll:Klak.Midi.NoteInput
 c0ffada44917e19b06d8a5e56b1c427d Assembly-CSharp.dll:Klak.Wiring.FloatMix
 e80bbb863642fc10ac32b7a310591f7d Assembly-CSharp.dll:Klak.Wiring.Toggle
 ddc88e574e6e2286955b78157364a5de Assembly-CSharp.dll:Klak.Wiring.Accumulator
+75eeb017c118628cd288e1173a757c43 Assembly-CSharp.dll:Klak.Wiring.SystemPropertyOut
 f1ebdc0a2b6164742c42b8daaced5013 Assembly-CSharp.dll:Klak.Wiring.Threshold
 accb736c8ca02925fbad9127d2b5c66b Assembly-CSharp.dll:Klak.Midi.KnobInput
 180d84d2698accfa60ad528aeeb8b2bb Assembly-CSharp.dll:Klak.Wiring.ComponentVector
