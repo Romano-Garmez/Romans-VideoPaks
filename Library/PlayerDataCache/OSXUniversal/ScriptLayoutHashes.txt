@@ -1,6 +1,6 @@
 OSXUniversal
 PlayerPath?
-C:/Users/Roman Garms/Creative Cloud Files/Unity/VideoLab PC/Temp/UnityTempFile-0ac47df17aed7ba468d4780df20e0eaf/tombola/OSX/tombola
+C:/Users/Roman Garms/Documents/GitHub/Romans-VideoPaks/Temp/UnityTempFile-4910134ea945df641ad99e8515db210c/tombola/OSX/tombola
 SceneListBegin?
 Assets/Scenes/Tombola.unity
 SceneListEnd?
@@ -13,6 +13,7 @@ ef8e3d27fe3457bdbbed58b3855f1ba3 Assembly-CSharp.dll:Klak.Wiring.ColliderInput
 cc4274b586df3c02688bac01b88bd16c UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
 ae83e830e7a90c0aff918c4c2e520825 UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
 e6baf3ef68d60bd0901dfb91c02bc1c3 UnityEngine.UI.dll:UnityEngine.UI.Image
+feb9a5a121d15fa3654d4e50a5233045 UnityEngine.UI.dll:UnityEngine.UI.RawImage
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.UI.dll:UnityEngine.UI.RectMask2D
 748dd2a2a28da4e618912da5ac45684b UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
 72712369a7c681ad84fc255a5ec0b333 UnityEngine.UI.dll:UnityEngine.UI.Text
@@ -31,7 +32,6 @@ ddc88e574e6e2286955b78157364a5de Assembly-CSharp.dll:Klak.Wiring.Accumulator
 75eeb017c118628cd288e1173a757c43 Assembly-CSharp.dll:Klak.Wiring.SystemPropertyOut
 f1ebdc0a2b6164742c42b8daaced5013 Assembly-CSharp.dll:Klak.Wiring.Threshold
 accb736c8ca02925fbad9127d2b5c66b Assembly-CSharp.dll:Klak.Midi.KnobInput
-180d84d2698accfa60ad528aeeb8b2bb Assembly-CSharp.dll:Klak.Wiring.ComponentVector
 1535486f2532f956560ca186613111b0 Assembly-CSharp.dll:Klak.Wiring.AxisRotation
 afe9d66b787b252c1629c11e9382256e Assembly-CSharp.dll:Klak.Wiring.ConsoleOut
 57361a4efe27ca5af11cc20a74a86887 Assembly-CSharp.dll:Klak.Wiring.FloatFilter
