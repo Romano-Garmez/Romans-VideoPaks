@@ -7,4 +7,4 @@ Currently there are two videopaks available:\
 ![Tombola](https://i.imgur.com/xy6ZaLJ.png)
 
 
-![XYPak](https://i.imgur.com/UlNBOzO.png)
+![XYPak](https://i.imgur.com/jZRoSwu.png)
