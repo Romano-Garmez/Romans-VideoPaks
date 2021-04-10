@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/XYPak.unity
+- path: Assets/Scenes/Tombola.unity
   isLoaded: 1
   isActive: 1
