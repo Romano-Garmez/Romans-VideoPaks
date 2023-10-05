@@ -12,6 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f53bc1b26fd1481091485ca15744c78, type: 3}
   m_Name: VideopakSettings
   m_EditorClassIdentifier: 
-  pakName: xypak
-  author: Romango
-  icon: {fileID: 2800000, guid: 0efa4de221ba0ee44aabd059c87c8d07, type: 3}
+  configs:
+  - bundleName: tombola
+    pakName: tombola
+    author: Roman Garms
+    icon: {fileID: 2800000, guid: aeec4ef3f7871a1439af3a653e175a06, type: 3}
+  - bundleName: xypak
+    pakName: xypak
+    author: user
+    icon: {fileID: 2800000, guid: 0efa4de221ba0ee44aabd059c87c8d07, type: 3}
